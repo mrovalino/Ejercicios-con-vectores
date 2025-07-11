@@ -304,7 +304,7 @@ Estimado Ingeniero:
 Me permito informarle que tuve un inconveniente técnico al momento de subir los códigos a la plataforma. Al intentar cargar los archivos, la ruta se desapareció inesperadamente y los archivos se subieron vacíos.
 
 Sin embargo, deseo dejar constancia de que la tarea fue realizada correctamente. Como respaldo, he subido todos los códigos (del 1 al 20) en mi repositorio de GitHub, el cual puede revisar en el siguiente enlace:
-[👉 [inserta aquí el enlace a tu repositorio]](https://github.com/mrovalino/Ejercicios-con-vectores.git)
+(https://github.com/mrovalino/Ejercicios-con-vectores.git)
 
 Agradezco su comprensión y quedo atento/a a cualquier indicación adicional que deba seguir.
 
